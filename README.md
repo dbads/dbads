@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 If you like some idea, let me know. 
 
 - **If you are looking for someone to build together I am in 😄**
+
+*I had put the idea repo private for so may years, I thought I would work on these ideas in someime future, but that seems not to work. So I made it public, if not me then maybe someone else would do it 😅*
