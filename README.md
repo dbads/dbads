@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I have complied some ideas mostly during my college time, if you are looking to build something crazy maybe you would find something in [here](https://github.com/dbads/Idea-Ydea).
+- I have complied some ideas mostly during my college time. If you are looking to build something crazy, maybe you would find something in [here](https://github.com/dbads/Idea-Ydea).
 If you like some idea, let me know. 
 
 - **If you are looking for someone to build together I am in 😄**
