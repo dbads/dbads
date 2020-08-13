@@ -4,8 +4,6 @@
 **dbads/dbads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, developer productivity, doing things "right", and writing things down.
-
 - 👨‍💻 Software Developer
 - 🌱 I’m currently learning: ReactJS, AWS
 - 💬 Ask me about: NodeJS, Django, APIs
