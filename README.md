@@ -17,4 +17,4 @@ If you like some idea, let me know.
 
 Links
 - [Portfolio](https://www.deepakbharti.com "Know more about me") 👨‍
-- [Resume](https://www.google.com "dbads Resume") 📄
+- [Resume](http://www.deepakbharti.com/static/img/DeepakBharti.ad9a17d076ba.pdf "dbads Resume") 📄
