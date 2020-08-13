@@ -3,8 +3,7 @@
 <!--
 **dbads/dbads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 👨‍💻 Software Developer
+- 👨‍💻 I am a Software Engineer
 - 🌱 I’m currently learning: ReactJS, AWS
 - 💬 Ask me about: NodeJS, Django, APIs
 - 📫 How to reach me: deepakbharti.me or on twitter @_dbads
