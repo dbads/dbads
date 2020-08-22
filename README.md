@@ -6,7 +6,7 @@
 - 👨‍💻 I am a Software Engineer
 - 🌱 I’m currently learning: ReactJS, AWS
 - 💬 Ask me about: NodeJS, Django, APIs
-- 📫 How to reach me: <a href="mailto:deepakbharti.me">deepakbharti.mnnit.ac.in</a> or on twitter <a href="https://twitter.com/_dbads"> @_dbads </a>
+- 📫 How to reach me: <a href="mailto:deepakbharti.mnnit.ac.in">deepakbharti.mnnit.ac.in</a> or on twitter <a href="https://twitter.com/_dbads"> @_dbads </a>
 
 I have complied some ideas mostly during my college time. If you are looking to build something crazy, maybe you would find something in [here](https://github.com/dbads/Idea-Ydea).
 If you like some idea, let me know. 
