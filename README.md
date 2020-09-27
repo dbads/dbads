@@ -16,5 +16,5 @@ If you like some idea, let me know.
 *I had put the idea repo private for so may years, I thought I would work on these ideas in someime future, but that seems not to work. So I made it public, if not me then maybe someone else would do it 😅*
 
 Links
-- [Portfolio](https://deepakbharti.com "Know more about me") 👨‍
+- [Portfolio](http://deepakbharti.com "Know more about me") 👨‍
 - [Resume](http://www.deepakbharti.com/static/img/DeepakBharti.ad9a17d076ba.pdf "dbads Resume") 📄
