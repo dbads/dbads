@@ -21,6 +21,6 @@ Links
 
 I have recently build
 
-- [search stock prices updated daily around 6PM from www.bseindia.com](https://github.com/dbads/Bhavcopy-bse) [see the app](https://bhavcopy-bse.herokuapp.com/)
+- [search stock prices updated daily around 6PM from www.bseindia.com](https://github.com/dbads/Bhavcopy-bse) -- [see the app](https://bhavcopy-bse.herokuapp.com/)
 - [Node app setup boilerplate](https://github.com/dbads/node-app-setup)
 - [Python app setup boilerplate](https://github.com/dbads/python-app-setup)
