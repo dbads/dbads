@@ -18,3 +18,9 @@ If you like some idea, let me know.
 Links
 - [Portfolio](http://deepakbharti.com "Know more about me") 👨‍
 - [Resume](http://www.deepakbharti.com/static/img/DeepakBharti.ad9a17d076ba.pdf "dbads Resume") 📄
+
+I have recently build
+
+- [An App where you can search stock prices updated daily around 6PM from www.bseindia.com](https://github.com/dbads/Bhavcopy-bse)
+- [Node app setup boilerplate](https://github.com/dbads/node-app-setup)
+- [Python app setup boilerplate](https://github.com/dbads/python-app-setup)
