@@ -5,6 +5,7 @@
 -->
 - 👨‍💻 I am a Software Engineer
 - 🌱 I’m currently learning: ReactJS, AWS
+- 💻 Currently writing: Kotlin, Javascript
 - 💬 Ask me about: NodeJS, Django, APIs
 - 📫 How to reach me: <a href="mailto:deepakbharti.mnnit.ac.in">deepakbharti.mnnit.ac.in</a> or on twitter <a href="https://twitter.com/_dbads"> @_dbads </a>
 
