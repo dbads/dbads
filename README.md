@@ -4,7 +4,7 @@
 **dbads/dbads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 👨‍💻 I am a Software Engineer
-- 🌱 I’m currently learning: Kotlin, Spring Boot, ReactJS, AWS
+- 🌱 I’m currently learning: Kotlin, Spring Boot, Docker, Kubernetes, ReactJS, AWS
 - 💻 Currently writing: Kotlin, Javascript
 - 💬 Ask me about: NodeJS, Django, APIs
 - 📫 How to reach me: <a href="mailto:deepakbharti.mnnit.ac.in">deepakbharti.mnnit.ac.in</a> or on twitter <a href="https://twitter.com/_dbads"> @_dbads </a>
