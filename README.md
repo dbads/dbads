@@ -18,7 +18,7 @@ If you like some idea, let me know.
 
 Links
 - [Portfolio](https://www.deepakbharti.com "Know more about me") 👨‍
-- [Resume](https://www.deepakbharti.com/static/img/DeepakBharti.9fa5f1bcf36b.pdf  "dbads Resume") 📄
+- [Resume]([https://www.deepakbharti.com/static/img/DeepakBharti.9fa5f1bcf36b.pdf](https://www.deepakbharti.com/static/img/DeepakBharti.a068422a3f12.pdf)  "dbads Resume") 📄
 
 I have recently build
 
