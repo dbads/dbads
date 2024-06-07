@@ -17,8 +17,8 @@ If you like some idea, let me know.
 *I had put the idea repo private for so may years, I thought I would work on these ideas in someime future, but that seems not to work. So I made it public, if not me then maybe someone else would do it 😅*
 
 Links
-- [Portfolio](https://www.deepakbharti.com "Know more about me") 👨‍
-- [Resume](https://www.deepakbharti.com/static/img/DeepakBharti.a068422a3f12.pdf  "dbads Resume") 📄
+- [Portfolio](https://dbadss.pythonanywhere.com/ "Know more about me") 👨‍
+- [Resume](https://drive.google.com/drive/u/1/folders/1Y-xLKNZx3M-5kFWfbn5N_S2eITMnfCdl?usp=sharing  "dbads Resume") 📄
 
 I have recently build
 
