@@ -18,8 +18,8 @@ If you like some idea, let me know.
 
 Links
 
-- [Portfolio]([https://www.deepakbharti.com](https://dbadss.pythonanywhere.com/ "Know more about me") 👨‍
-- [Resume](https://www.deepakbharti.com/static/img/DeepakBharti.a068422a3f12.pdf  "dbads Resume") 📄
+- [Portfolio](https://dbadss.pythonanywhere.com/ "Know more about me") 👨‍
+- [Resume](https://drive.google.com/drive/u/1/folders/1Y-xLKNZx3M-5kFWfbn5N_S2eITMnfCdl  "dbads Resume") 📄
 
 
 I have recently build
